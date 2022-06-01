@@ -1,0 +1,21 @@
+.btn-container{
+    display: flex;
+    justify-content: space-around;
+    margin:20px auto;
+    width: 22%;
+}
+.filter-btn{
+    background: none;
+    border: 2px solid #000;
+    padding: 6px 8px;
+    transition: 0.4s;
+}
+.filter-btn:focus{
+    background: #000;
+    color: #fff;
+    border: 2px solid #000;
+}
+.filter-btn:hover{
+    background: #000;
+    color: #fff;
+}

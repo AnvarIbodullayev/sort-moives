@@ -1,0 +1,13 @@
+.category{
+    margin-top: 50px;
+}
+.section{
+    margin-top: 100px;
+}
+.img-box{
+  position: relative;
+  overflow: hidden;
+}
+.img-box img{
+  position: absolute;
+}
